@@ -5,3 +5,8 @@
 <li>Función de FrontEnd: VueJS y TailWindCSS</li>
 <li>Función de BackEnd: PHP (SIMPLE)</li>
 <li>Base de datos: MySQL (Con implementación de JSON)</li>
+
+<h3>Requisitos para el uso:</h3>
+<li>Vue-routes</li>
+<li>AXIOS</li>
+<li>Xampp (Para los archivos .php)</li>
